@@ -1,9 +1,9 @@
 // temporarydrawer implements a material temporarydrawer component.
 //
 // See: https://material.io/components/web/catalog/drawers/
-package temporarydrawer // import "agamigo.io/material/temporarydrawer"
+package temporarydrawer // import "github.com/dave/material/temporarydrawer"
 import (
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

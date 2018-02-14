@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"agamigo.io/material/dialog"
-	"agamigo.io/material/internal/mdctest"
+	"github.com/dave/material/dialog"
+	"github.com/dave/material/internal/mdctest"
 	"github.com/gopherjs/gopherjs/js"
 )
 

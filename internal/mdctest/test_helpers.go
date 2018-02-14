@@ -1,4 +1,4 @@
-package mdctest // import "agamigo.io/material/internal/mdctest"
+package mdctest // import "github.com/dave/material/internal/mdctest"
 
 import (
 	"agamigo.io/gojs"

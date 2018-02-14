@@ -1,10 +1,10 @@
 // radio implements a material radio component.
 //
 // See: https://material.io/components/web/catalog/input-controls/radio-buttons/
-package radio // import "agamigo.io/material/radio"
+package radio // import "github.com/dave/material/radio"
 
 import (
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

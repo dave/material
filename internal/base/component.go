@@ -2,7 +2,7 @@
 The base package contains code shared by implementations of material components
 for GopherJS.
 */
-package base // import "agamigo.io/material/internal/base"
+package base // import "github.com/dave/material/internal/base"
 
 import (
 	"errors"
@@ -39,7 +39,7 @@ func (c *Component) ComponentType() ComponentType {
 // init() method. An error will also be returned if Component() is non-nil.  Use
 // Stop to clean up the component before calling Start again.
 //
-// Important: If you are using a component from agamigo.io/material/*, you
+// Important: If you are using a component from github.com/dave/material/*, you
 // should use its Start method, not this function. Consult the component's
 // documentation for info/examples.
 //

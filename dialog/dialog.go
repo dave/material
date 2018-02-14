@@ -1,11 +1,11 @@
 // dialog implements a material dialog component.
 //
 // See: https://material.io/components/web/catalog/dialogs/
-package dialog // import "agamigo.io/material/dialog"
+package dialog // import "github.com/dave/material/dialog"
 
 import (
 	"agamigo.io/gojs"
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

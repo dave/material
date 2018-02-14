@@ -1,10 +1,10 @@
 // icontoggle implements a material icontoggle component.
 //
 // See: https://material.io/components/web/catalog/buttons/icon-toggle-buttons/
-package icontoggle // import "agamigo.io/material/icontoggle"
+package icontoggle // import "github.com/dave/material/icontoggle"
 
 import (
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

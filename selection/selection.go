@@ -1,10 +1,10 @@
 // selection implements a material selection component.
 //
 // See: https://material.io/components/web/catalog/input-controls/select-menus/
-package selection // import "agamigo.io/material/selection"
+package selection // import "github.com/dave/material/selection"
 
 import (
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

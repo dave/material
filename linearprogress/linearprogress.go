@@ -1,11 +1,11 @@
 // linearprogress implements a material linearprogress component.
 //
 // See: https://material.io/components/web/catalog/linear-progress/
-package linearprogress // import "agamigo.io/material/linearprogress"
+package linearprogress // import "github.com/dave/material/linearprogress"
 
 import (
 	"agamigo.io/gojs"
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

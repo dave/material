@@ -1,9 +1,9 @@
 // persistentdrawer implements a material persistentdrawer component.
 //
 // See: https://material.io/components/web/catalog/drawers/
-package persistentdrawer // import "agamigo.io/material/persistentdrawer"
+package persistentdrawer // import "github.com/dave/material/persistentdrawer"
 import (
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

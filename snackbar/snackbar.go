@@ -1,13 +1,13 @@
 // snackbar implements a material snackbar component.
 //
 // See: https://material.io/components/web/catalog/snackbars/
-package snackbar // import "agamigo.io/material/snackbar"
+package snackbar // import "github.com/dave/material/snackbar"
 
 import (
 	"errors"
 
 	"agamigo.io/gojs"
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

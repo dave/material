@@ -1,10 +1,10 @@
 // menu implements a material menu component.
 //
 // See: https://material.io/components/web/catalog/menus/
-package menu // import "agamigo.io/material/menu"
+package menu // import "github.com/dave/material/menu"
 
 import (
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 

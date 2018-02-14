@@ -1,11 +1,11 @@
 // ripple implements a material ripple component.
 //
 // See: https://material.io/components/web/catalog/ripples/
-package ripple // import "agamigo.io/material/ripple"
+package ripple // import "github.com/dave/material/ripple"
 
 import (
 	"agamigo.io/gojs"
-	"agamigo.io/material/internal/base"
+	"github.com/dave/material/internal/base"
 	"github.com/gopherjs/gopherjs/js"
 )
 
